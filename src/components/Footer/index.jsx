@@ -165,7 +165,7 @@ const Footer = () => {
       </div>
 
       <div className="copyright">
-        Copyright © 2024 Keerthana. All rights reserved.
+        Copyright © 2024 Rajendra Jat. All rights reserved.
       </div>
     </footer>
   );
